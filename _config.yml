@@ -1,11 +1,9 @@
 title: Cliff`s Homepage
 author: Mr. Denney
 email: cdenney1214@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-cool new website about me (for
-  Google search results) and in your feed.xml site description.
+description: cool new website about me 
 
 # social linkstwitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-cliffcod2:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+#cliffcod2 : github.co myour-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
